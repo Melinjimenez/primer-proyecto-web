@@ -1,0 +1,51 @@
+header{ 
+    background-image: url("../recursos/principal.jpeg");
+    background-size: cover;
+    
+}
+
+.divCuadrado{
+    width: 250px;
+    height: 250px;
+
+}
+.contenedorFlexible{
+    display: flex;
+}
+.fotoChica{
+    width: 150px;
+    height: 150px;
+
+}
+
+
+
+main{
+    background-image: url("../recursos/fondo.jpeg");
+    background-size: cover;
+       
+   }
+
+.divCuadrado{
+    width: 250px;
+    height: 250px;
+}
+.contenedorFlexible{
+    display: flex;
+    align-items: center;
+}
+
+
+
+footer{
+    background-image: url("../recursos/bajo.jpeg");
+    background-size: cover;
+    }
+.divCuadrado{
+    width: 250px;
+    height: 250px;
+
+}
+.contenedorFlexible{
+    display: flex;
+}

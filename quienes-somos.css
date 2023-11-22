@@ -1,0 +1,43 @@
+header{
+    background-image: url("../recursos/principal.jpeg");
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+nav ul li{
+    list-style-type: none;
+    font-size: 25px;
+    background: none;
+    margin: 25px;
+    padding: 25px;
+    display: inline-flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+main{
+    background-image: url("../recursos/fondo.jpeg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.parrafo{
+  font-size: 20px;
+  
+ 
+}
+h1 a { margin: 800px;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: powderblue;
+    
+}

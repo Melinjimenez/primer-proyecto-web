@@ -1,0 +1,52 @@
+footer{
+    background-image: url("../recursos/bajo.jpeg");
+    background-size: cover;
+    flex-wrap: wrap;
+    
+}
+ .iconoMedio{
+    font-size: 30px;
+    flex-wrap: wrap;
+}
+h3 a{
+    margin: 50px;
+    padding: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: powderblue;
+}
+.contenedorFlexible{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.contactos{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.redes{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+.direccion{
+ display: flex;
+ flex-direction: row;
+ align-self: flex-end;
+ margin: 80px;
+ padding: 5px;
+ flex-wrap: wrap;
+ 
+
+}  
+.derechos{
+    display: flex;
+    flex-direction:column;
+    align-self: flex-end;
+    flex-wrap: wrap;
+      
+} 

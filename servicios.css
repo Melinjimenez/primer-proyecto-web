@@ -1,0 +1,34 @@
+
+section{
+    background-image: url("../recursos/fondo.jpeg");
+    background-size: cover;
+    flex-wrap: wrap;
+    
+    
+}
+h2 a{
+    margin: 850px;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color:powderblue;
+    flex-wrap: wrap;
+    
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.div a{
+   margin: 20px;
+   padding: 5px;
+    
+}
+.div p{
+    font-size: 25px;
+    font-weight: bold;
+}
